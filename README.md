@@ -23,8 +23,6 @@ The Prusa i3 Rework is licensed under GPLv3, as was the original Prusa I3 design
 Attributions
 ============
  
- - Josef Prusa: 
-  - Prusa i3 3D printer original author.
-  
- - E-Motion Tech (RepRap France):
-  - 40mm fan duct for eMotion Tech Prusa i3 Rework / Hexagon / 3mm by tototiti is licensed under the Creative Commons - Attribution - Share Alike license
+ - Josef Prusa: Prusa i3 3D printer original author.
+ - E-Motion Tech (RepRap France): for the "Rework" 1.0 design
+ - 40mm fan duct for eMotion Tech Prusa i3 Rework / Hexagon / 3mm by tototiti is licensed under the Creative Commons - Attribution - Share Alike license
