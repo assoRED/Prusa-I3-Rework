@@ -2,6 +2,8 @@
 
 In this repository you will find the source files for the Prusa i3 Rework 3D printer. 
 
+Mounting instruction can be found here: http://reprap.org/wiki/Prusa_i3_Rework_Introduction/fr
+
 The Changes in this derivative include:
  1) Extruder upgrade: Magma Hotend (by Trinity Lab) support. 
  2) New cooling fan duct for Magma Hotend. 
