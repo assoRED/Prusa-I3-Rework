@@ -38,4 +38,3 @@ Attributions
  - Josef Prusa: Prusa i3 3D printer original author.
  - E-Motion Tech (RepRap France): for the "Rework" 1.0 design
  - 40mm fan duct for eMotion Tech Prusa i3 Rework / Hexagon / 3mm by tototiti is licensed under the Creative Commons - Attribution - Share Alike license
- - Hictop Prusa I3 Spool Holder by jlvnb is licensed under the Creative Commons - Attribution license.
